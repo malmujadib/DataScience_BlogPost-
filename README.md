@@ -1,8 +1,11 @@
 # Developers Salaries
-Developers Statistics
+Mohammed Al Mujadib
 
 
-# This project demonstrate Developers statistics in Stack Overflow Dataset - 2017 Survey Using CRISP-DM process:
+## This project demonstrate Developers statistics in Stack Overflow Dataset - 2017 Survey 
+
+
+### Using CRISP-DM process:
 
 1. Business Understanding:
     I was curious to know the average salary of a developer in general, what is the highest salary for a developer, and what is the average developer’s satisfaction                
