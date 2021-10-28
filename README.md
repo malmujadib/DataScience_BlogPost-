@@ -15,7 +15,8 @@
 
 2. Data Understanding:
 
-    The dataset provided by Stack Overflow Data - 2017 Survey , it was a survey they did about developers contains more than 50000 respondants.
+    The dataset provided by Stack Overflow Data - 2017 Survey , it was a survey they did about developers contains more than 50000 respondants. You can find the
+    dataset https://www.kaggle.com/stackoverflow/so-survey-2017
      
  
  
@@ -48,7 +49,7 @@
    
    
    
-#### I have used python programming language, Libraries used:
+#### I have used python programming language, libraries used:
 
 * pandas
 * numpy
