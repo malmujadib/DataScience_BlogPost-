@@ -38,8 +38,12 @@ Developers Statistics
     -North america has higher average salary than europe almost the double
    
    
-*I have used python programming language, Libraries used:
+I have used python programming language, Libraries used:
 * pandas
 * numpy
 * seaborn
 * matplotlib
+
+
+# Acknowledgements:
+All the thanks for Udacity for this opportunity.
