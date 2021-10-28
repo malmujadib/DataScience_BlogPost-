@@ -39,11 +39,7 @@ Developers Statistics
    
    
 *I have used python programming language, Libraries used:
-
-1-pandas
-
-2-numpy
-
-3-seaborn
-
-4-matplotlib
+* pandas
+* numpy
+* seaborn
+* matplotlib
