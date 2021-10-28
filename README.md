@@ -23,10 +23,13 @@ Developers Statistics
     
 5. Results:
     *Q1:What is the highest salary for a developer and the average salary?
+    
     -The Highest Salary is 197000$ and The Average salary is 56298$.
     
     *Q2:Are the developer satisfied about their careers and what is the average of this satisfaction?
+    
     -Often, yes becuse the average rating is 7.3 from 10.
     
     *Q3:Which location has the highest average salary?
+    
     -North america has higher average salary than europe almost the double
