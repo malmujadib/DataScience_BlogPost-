@@ -1,26 +1,29 @@
 # DataScience_BlogPost-
 Developers Statistics
 
-![Stack overflow](https://user-images.githubusercontent.com/63408099/139339715-b9a51daa-c4ab-4d9b-b230-f5a78a26a848.png)
 
 # This project demonstrate Developers statistics in Stack Overflow Dataset - 2017 Survey Using CRISP-DM process:
 
 1. Business Understanding:
-    I was curious to know the average salary of a developer in general, what is the highest salary for a developer, and what is the average developer’s satisfaction                with his career path and to compare the average salary of a developer in different places in the world.
+    I was curious to know the average salary of a developer in general, what is the highest salary for a developer, and what is the average developer’s satisfaction                
+    with his career path and to compare the average salary of a developer in different places in the world.
 
 
 2. Data Understanding:
     The dataset provided by Satck overflow, it was a survey they did about developers contains more than 50000 respondants.
      
-     
+ 
+ 
 3. Prepare Data:
     In this step Blank responses are excluded to make the data more accurate.
      
-     
+
+
 4. Model Data:
     I analyzed the data to find Awnsers.
     
-    
+
+
 5. Results:
     *Q1:What is the highest salary for a developer and the average salary?
     
@@ -33,3 +36,10 @@ Developers Statistics
     *Q3:Which location has the highest average salary?
     
     -North america has higher average salary than europe almost the double
+   
+   
+*I have used python programming language, Libraries used:
+1-pandas
+2-numpy
+3-seaborn
+4-matplotlib
