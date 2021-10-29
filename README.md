@@ -40,7 +40,7 @@
     
     * Q2:Are the developer satisfied about their careers and what is the average of this satisfaction?
     
-    -Often, yes becuse the average rating is 7.3 from 10.
+    -Often, yes becشuse the average rating is 7.3 from 10.
     
     * Q3:Which continent has the highest average salary?
     
