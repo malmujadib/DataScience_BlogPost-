@@ -42,7 +42,7 @@
     
     -Often, yes becuse the average rating is 7.3 from 10.
     
-    * Q3:Which location has the highest average salary?
+    * Q3:Which continent has the highest average salary?
     
     -North america has higher average salary than europe almost the double
    
